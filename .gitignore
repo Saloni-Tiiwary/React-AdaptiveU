@@ -1,6 +1,8 @@
-node_modules/
+
 /test-results/
 /playwright-report/
 /playwright/.cache/
+/Raw code
 .env
-/Raw code/
+node_modules/
+/playwright-report/
